@@ -1,4 +1,4 @@
-# Full Stack Javascript 2.0
+# Full Stack Javascript
 
 ## _Html & Css_ Projects
 
